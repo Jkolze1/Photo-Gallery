@@ -1,4 +1,4 @@
 # Photo-Gallery
 JavaScript based photo gallery.
-<br>
+<br> <br>
 ![Home](/img/pic.png 'Screenshot')
